@@ -328,9 +328,7 @@ The custom legend shows three reference sizes:
 - Documentation improvements
 - Interactive features
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
