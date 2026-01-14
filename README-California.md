@@ -319,15 +319,7 @@ The custom legend shows three reference sizes:
 - [ ] **Machine Learning**: Implement price prediction models
 - [ ] **Comparative Analysis**: Compare with other states
 
-## 🤝 Contributing
 
-Contributions are welcome! Areas for contribution:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewVisualization`)
-3. Commit your Changes (`git commit -m 'Add density heatmap'`)
-4. Push to the Branch (`git push origin feature/NewVisualization`)
-5. Open a Pull Request
 
 ### Contribution Ideas
 - Additional visualization types
@@ -343,10 +335,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Veera Ajay Kumar Angajala**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+
+- Email: ajay01.jobs@gmail.com
+- LinkedIn: [Veera Angajala](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
